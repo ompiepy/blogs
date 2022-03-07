@@ -1,3 +1,3 @@
 # blogs
 
-1. [Installing Git **For Windows**](https://github.com/ompiepy/Installing-Git/)
+1. [Installing Git **For Windows**](https://omprakashsharma.com.np/Installing-Git/)
