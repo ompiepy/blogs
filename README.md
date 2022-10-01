@@ -1,3 +1,3 @@
-# blogs
+# See all the blogs.
 
-1. [Installing Git **For Windows**](https://omprakashsharma.com.np/Installing-Git/)
+1. [Installing Git **For Windows**](https://blogs.omprakashsharma.com.np/installing-git-windows.html)
