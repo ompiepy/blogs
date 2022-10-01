@@ -8,19 +8,19 @@
     
     ![Step-1.1](./assets-01_installing-git-windows/1.png)
 
-    3. A windows appears with Blinking Underscore, making ready to type in your command.
+    2. A windows appears with Blinking Underscore, making ready to type in your command.
     
     ![Step-1.2](./assets-01_installing-git-windows/2.png)
 
-    5. Type:
+    3. Type:
     ```
     git --version
     ```
-    5. If it returns the output like `git version 2.35.1.windows.2`. Git, is already installed in your system.
+    4. If it returns the output like `git version 2.35.1.windows.2`. Git, is already installed in your system.
     
     ![Step-1.5](./assets-01_installing-git-windows/23.png)
 
-    7. If the output is like `'git' is not recognized as an internal or external command, operable program or batch file.`, Git is probably not installed in your system.
+    5. If the output is like `'git' is not recognized as an internal or external command, operable program or batch file.`, Git is probably not installed in your system.
     
     ![Step-1.6](./assets-01_installing-git-windows/3.png)
 
